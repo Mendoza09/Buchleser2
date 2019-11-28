@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615801902013",
+    "firebase_url": "https://buchleser.firebaseio.com",
+    "project_id": "buchleser",
+    "storage_bucket": "buchleser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615801902013:android:ed10a5cbf5d75f845578d4",
+        "android_client_info": {
+          "package_name": "ujcv.edu.hn.buchleser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615801902013-hdh83duh5k06te6n2g3hv808apte0dk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKwt940Okwd27gnNkXS6XqmvTrhW_k0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615801902013-hdh83duh5k06te6n2g3hv808apte0dk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
